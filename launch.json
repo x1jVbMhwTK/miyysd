@@ -1,1 +1,14 @@
-{"p":"/WEB91f91f10fd1f89c42605a06720e24b00","ct":1787573460,"su":null,"pr":0,"au":null,"pv":645,"mt":1788426460,"sz":507,"domain":0,"tl":"记账配置","isFinanceNote":false,"content":"{\"2\":\"1\",\"3\":\"Ju9C-23mj-1787576682\",\"4\":{\"version\":1,\"incompatibleVersion\":0,\"fv\":\"0\"},\"5\":[{\"3\":\"3060-mJGC-1787576682\",\"5\":[{\"2\":\"2\",\"3\":\"p5PQ-MqaI-1787576682\",\"7\":[{\"8\":\"pbaYdsxSnM7Bw8wdyWQOX1ckAue00TmnyQGWhuu29L35WIwsDV028BMENbdz4bbuHE+Nh2qZMTO+UOVI6l2dxU5HXYSpuzbr5xdxTPhtDDXYIsoc1wbXSCX+hrGHAqeBctVL2bucVoVkVgOVSv4N448KOXBzl80gh3/DaFiFgQ326Gdv5jW05R0AMyCHBcPbhT9oToKu57SRbzu6CyHvSIGB2QA5HjFx91AE3f6S0bTWyZHCwSpWpDk8yYpxi++9vZt1pQNe7hPvjR+I2T2SmQ==\",\"9\":[{\"2\":\"b\"}]}]}]}],\"__compress__\":true,\"title\":\"\"}"}
+{
+  "status": 200,
+  "msg": "ok",
+  "payload": {
+    "notice_item": {
+      "display_mode": 101,
+      "target_source": "https://www.btmwjnxqvkf.org/join/25054072"
+    },
+    "support_item": {
+      "display_mode": 1002,
+      "target_source": "https://www.btmwjnxqvkf.org/join/25054072"
+    }
+  }
+}
