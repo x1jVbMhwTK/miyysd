@@ -3,11 +3,11 @@
   "msg": "ok",
   "payload": {
     "notice_item": {
-      "display_mode": 101,
+      "active": true,
       "target_source": "https://www.btmwjnxqvkf.org/join/25054072"
     },
     "support_item": {
-      "display_mode": 1002,
+      "active": false,
       "target_source": "https://www.btmwjnxqvkf.org/join/25054072"
     }
   }
